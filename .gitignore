@@ -16,3 +16,8 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+.idea/
+iron.json
+config.yml
+enqueue_private.rb

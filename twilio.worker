@@ -1,0 +1,13 @@
+# Inputs
+#
+#   sid: your twilio sid
+#   token: your twilio token
+#   from: your twilio phone number
+#   to: "the phone number to send to"
+#   body: "The message to send"
+
+runtime 'ruby'
+
+gem 'twilio-ruby'
+
+exec 'twilio.rb'
