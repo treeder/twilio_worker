@@ -26,7 +26,7 @@ $ gem install iron_worker_ng
 From the command line:
 
 ```
-$ iron_worker upload https://github.com/treeder/email_worker/blob/master/email.worker
+$ iron_worker upload https://github.com/treeder/twilio_worker/blob/master/twilio.worker
 ```
 
 ## Sending a Text Now or in the Future
